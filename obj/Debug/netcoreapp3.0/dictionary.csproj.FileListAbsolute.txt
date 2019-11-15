@@ -1,0 +1,11 @@
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.deps.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.runtimeconfig.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.runtimeconfig.dev.json
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.dll
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.pdb
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.csprojAssemblyReference.cache
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.AssemblyInfoInputs.cache
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.AssemblyInfo.cs
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.dll
+/Users/elizabethfortunato/workspace/C_sharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.pdb
